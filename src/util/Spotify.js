@@ -1,5 +1,5 @@
 const clientId = 'e4682aa1ed784942aa2ff475d1f8d15b';
-const redirect_uri = 'http://cautious-ink.surge.sh';
+const redirect_uri = 'http://arireactplaylist.surge.sh';
 //const redirect_uri = 'https://localhost:3000';
 let accessToken;
 
